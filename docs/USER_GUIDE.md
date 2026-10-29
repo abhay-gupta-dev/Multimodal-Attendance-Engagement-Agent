@@ -16,7 +16,7 @@ Face identity matching and biometric enrollment are unavailable. Use manual atte
 # Student AccSoft attendance
 
 1. Sign in to the attendance app using your account linked to your LNCT student record.
-2. Open **College attendance**, then open AccSoft using the official portal link. Sign in on that portal only; this app has no AccSoft password field.
+2. Open **My AccSoft Attendance**, then open AccSoft using the official portal link. Sign in on that portal only; this app has no AccSoft password field.
 3. Download your attendance export from AccSoft, return to the app, select the CSV/XLSX, and choose **Preview report**.
 4. Check accepted rows, duplicates, and row-level validation issues. Confirm only after checking the preview.
 5. Imported records appear as **pending review** until the Super Admin reviews the supporting report evidence. The app displays only source values and does not calculate attendance percentages.
