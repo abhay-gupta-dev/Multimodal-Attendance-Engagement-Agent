@@ -1,0 +1,4 @@
+from app.models.models import AcademicTerm, ApplicationSetting, AudioMetric, AttendanceCorrection, AttendanceImportJob, AttendanceRecord, AuthSession, AuditLog, BiometricEnrollment, ClassEnrollment, Classroom, ClassSession, DataImportJob, EngagementMetric, ExternalAttendanceRecord, ExternalPortalConnection, Faculty, FacultySubjectAssignment, ImportError, InstitutionProfile, Recommendation, Role, Student, Subject, UserAccount, VisionMetric
+
+__all__ = ["AcademicTerm", "ApplicationSetting", "AudioMetric", "AttendanceCorrection", "AttendanceImportJob", "AttendanceRecord", "AuthSession", "AuditLog", "BiometricEnrollment", "ClassEnrollment", "Classroom", "ClassSession", "DataImportJob", "EngagementMetric", "ExternalAttendanceRecord", "ExternalPortalConnection", "Faculty", "FacultySubjectAssignment", "ImportError", "InstitutionProfile", "Recommendation", "Role", "Student", "Subject", "UserAccount", "VisionMetric"]
+
